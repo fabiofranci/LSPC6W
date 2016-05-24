@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="it.firenzewebdivision.lspc6w" version="1.0.3">
-  <name>LSPC6W</name>
+  <name>LSPC6</name>
   <description>La saetta pest control app 6 Windows Version.</description>
   <author href="http://www.firenzewebdivision.it" email="fabio.franci@gmail.com">Fabio Franci</author>
   <content src="index.html"/>
